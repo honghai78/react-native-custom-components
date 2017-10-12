@@ -1,3 +1,5 @@
+#Install
+npm install --save react-native-navigation-custom
 # React Native Legacy Custom Components
 
 This is a module for legacy "CustomComponents" to gracefully deprecate.
