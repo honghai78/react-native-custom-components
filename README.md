@@ -1,4 +1,4 @@
-#Install
+# Install
 npm install --save react-native-navigation-custom
 # React Native Legacy Custom Components
 
