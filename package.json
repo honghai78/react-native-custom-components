@@ -1,10 +1,10 @@
 {
-  "name": "react-native-deprecated-custom-components",
-  "version": "0.1.1",
+  "name": "react-native-navigation-custom",
+  "version": "0.1.2",
   "description": "Deprecated custom components that originally shipped with React Native",
   "repository": {
     "type": "git",
-    "url": "git@github.com:facebookarchive/react-native-custom-components.git"
+    "url": "git@github.com:honghai78/react-native-custom-components.git"
   },
   "main": "src/CustomComponents.js",
   "dependencies": {
